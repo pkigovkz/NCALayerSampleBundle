@@ -1,5 +1,7 @@
 # Пример OSGi-bundle для NCALayer
 
+[(Пример с Common Invoker)](https://github.com/pkigovkz/NCALayerAnotherSampleBundle)
+
 Модуль NCALayer (OSGi bundle) - подписанный jar, в манифесте которого имеются свойства:
 - *Bundle-SymbolicName* - символическое имя (уникальный идентификатор)
 - *Bundle-Name* - наименование
